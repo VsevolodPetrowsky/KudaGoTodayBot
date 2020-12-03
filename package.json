@@ -1,0 +1,29 @@
+{
+  "name": "kudagotodaybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsevolodPetrowsky/KudaGoTodayBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VsevolodPetrowsky/KudaGoTodayBot/issues"
+  },
+  "homepage": "https://github.com/VsevolodPetrowsky/KudaGoTodayBot#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.38.0"
+  }
+}
